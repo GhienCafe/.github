@@ -25,6 +25,5 @@ The FPT University Asset Management System is a software solution designed to fa
 ## Installation
 
 GO to take a view
-   ```bash
-   Go to https://github.com/GhienCafe)https://github.com/GhienCafe
+
 
