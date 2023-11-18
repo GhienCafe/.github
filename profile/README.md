@@ -1,12 +1,30 @@
 ## Hi there 👋
 
-<!--
+### This is capstone project:
 
-**Here are some ideas to get you started:**
+# FPT University Asset Management System
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Overview
+
+The FPT University Asset Management System is a software solution designed to facilitate the efficient tracking and management of equipment and infrastructure within FPT University. This repository contains the source code and documentation for the system.
+
+## Features
+
+- **Asset-check**
+
+- **Inventory-check**
+
+- **Repairation** 
+
+- **Maintenance:**
+
+- **replacement:** 
+
+- **Transportation:**
+
+## Installation
+
+GO to take a view
+   ```bash
+   Go to https://github.com/GhienCafe)https://github.com/GhienCafe
+
